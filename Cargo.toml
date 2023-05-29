@@ -1,0 +1,15 @@
+[package]
+name = "blkbench"
+version = "0.1.0"
+authors = ["manu"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+lazy_static = "1.4.0"
+ansi_term = "0.12.1"
+getopts = "0.2"
+chrono = "0.4.10"
+serde_json = "1.0"
+
